@@ -73,8 +73,6 @@ github.com/crossplaneio/crossplane-runtime v0.4.0/go.mod h1:UTemZ8u+bvHkQMHpdsZ2
 github.com/crossplaneio/crossplane-runtime v0.4.1-0.20200201005410-a6bb086be888 h1:vO/7jO4Vz1+1IxNximywy5Sr/dj5vwFKhii9x4pyz+Q=
 github.com/crossplaneio/crossplane-runtime v0.4.1-0.20200201005410-a6bb086be888/go.mod h1:97hx6LIBkjI0fjfMGPRCOGI7Pm6qUhoN9zTCWrP4XvU=
 github.com/crossplaneio/crossplane-tools v0.0.0-20191220202319-9033bd8a02ce/go.mod h1:fzQeWDvZvzaC4N8vPjTubQocGnwzQ4cuZM6949+T43U=
-github.com/crossplaneio/templating-controller v0.0.0-20200207134613-df21e722880b h1:qdoRvg71L5dj6BYNIEiw5kn70vQ5vwxIBy97P/x8Hp8=
-github.com/crossplaneio/templating-controller v0.0.0-20200207134613-df21e722880b/go.mod h1:PAJHvFJ5uypbAJqCCW0TfF3DtqrOtXl3GDA+J9/phy8=
 github.com/dave/jennifer v1.3.0/go.mod h1:fIb+770HOpJ2fmN9EPPKOqm1vMGhB+TwXKMZhrIygKg=
 github.com/davecgh/go-spew v0.0.0-20151105211317-5215b55f46b2/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
@@ -310,6 +308,8 @@ github.com/lib/pq v1.2.0/go.mod h1:5WUZQaWbwv1U+lTReE5YruASi9Al49XbQIvNi/34Woo=
 github.com/liggitt/tabwriter v0.0.0-20181228230101-89fcab3d43de/go.mod h1:zAbeS9B/r2mtpb6U+EI2rYA5OAXxsYw6wTamcNW+zcE=
 github.com/lithammer/dedent v1.1.0/go.mod h1:jrXYCQtgg0nJiN+StA2KgR7w6CiQNv9Fd/Z9BP0jIOc=
 github.com/logrusorgru/aurora v0.0.0-20181002194514-a7b3b318ed4e/go.mod h1:7rIyQOR62GCctdiQpZ/zOJlFyk6y+94wXzv6RNZgaR4=
+github.com/lukeweber/templating-controller v0.0.0-20200212032938-11cdd9802fc3 h1:wpFuj3PcXDY0BhruNdeuCswzsKtmgeYtGst6oTb6S2A=
+github.com/lukeweber/templating-controller v0.0.0-20200212032938-11cdd9802fc3/go.mod h1:EqAeMDoLhVmmYrR+Zv6OSQ3n3GPH/LhpsxPK5wIM968=
 github.com/magiconair/properties v1.8.0/go.mod h1:PppfXfuXeibc/6YijjN8zIbojt8czPbwD3XqdrwzmxQ=
 github.com/mailru/easyjson v0.0.0-20160728113105-d5b7844b561a/go.mod h1:C1wdFJiN94OJF2b5HbByQZoLdCWB1Yqtg26g4irojpc=
 github.com/mailru/easyjson v0.0.0-20180823135443-60711f1a8329/go.mod h1:C1wdFJiN94OJF2b5HbByQZoLdCWB1Yqtg26g4irojpc=

@@ -12,3 +12,5 @@ require (
 	k8s.io/client-go v0.17.1
 	sigs.k8s.io/controller-runtime v0.4.0
 )
+
+replace github.com/crossplaneio/resourcepacks => github.com/lukeweber/templating-controller v0.0.0-20200212032938-11cdd9802fc3
